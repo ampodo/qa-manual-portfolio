@@ -25,6 +25,8 @@ import api108 from './api108.png'
 import database from './database.png'
 import android from './android.png'
 import integration from './integration.png'
+import right_white_arrow from './right_white_arrow.png'
+import mail_icon from './mail_icon.png'
 
 export const assets = {
    
@@ -53,7 +55,9 @@ export const assets = {
     api108,
     database,
     android,
-    integration
+    integration,
+    right_white_arrow,
+    mail_icon
 
 
 };
