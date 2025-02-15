@@ -8,7 +8,7 @@ const Expertise = () => {
       <h4 className="text-center mb-2 text-lg font-Ovo">What I provide</h4>
       <h2 className="text-center text-5xl font-Ovo">My services</h2>
       <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
-        I can offer a holistic range of testing services to ensure the quality
+        I can offer an all-encompassing range of testing services to ensure the quality
         and reliability of your&nbsp;application.
       </p>
 
