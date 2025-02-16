@@ -17,7 +17,7 @@ const Hero = () => {
                 Hi! I'm Vladimir a Manual QA tester <Image src={assets.hand_icon} alt=''
                className='w-6'/></h3>
              <p className='max-w-2xl mx-auto font-Ovo'>
-             I am capable of analyzing business needs and executing comprehensive integration testing to ensure the system functions as intended across all layers
+             I specialize in analyzing business requirements and performing comprehensive manual testing, including functional and integration testing, to ensure the system works seamlessly across all layers 
              <span className='block'>(API, database, and frontend).</span>  
              </p>
             

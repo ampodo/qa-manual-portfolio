@@ -18,7 +18,7 @@ function About() {
             </div> 
             <div className='flex-1'>
                    <p className='mb-10 max-w-2xl font-Ovo'>
-                   I am experienced in creating test plans, test cases, bug reports, and checklists, ensuring every aspect of the software is thoroughly tested for quality and functionality. With a strong attention to detail, I am adept at identifying potential issues and am ready to collaborate with cross-functional teams to resolve them,  <span className="font-bold"> ensuring the end product meets both user expectations and business requirements</span>. I have used YouTrack for documenting test cases, tracking issues, managing bug reports, and overseeing the progress of testing activities to ensure clear communication and timely resolution.     
+                   I am experienced in creating test plans, test cases, bug reports, and checklists, ensuring every aspect of the software is thoroughly tested for quality and functionality. With a strong attention to detail, I am adept at identifying potential issues and am ready to collaborate with cross-functional teams to resolve them,  <span className="font-bold"> ensuring the end product meets both user expectations and business needs</span>. I have used YouTrack for documenting test cases, tracking issues, managing bug reports, and overseeing the progress of testing activities to ensure clear communication and timely resolution.     
                    </p>
 
                    <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
