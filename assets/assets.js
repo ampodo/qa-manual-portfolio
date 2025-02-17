@@ -72,7 +72,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Dev knowledge', description: 'Worked with Git, VSCode, DevTools, JavaScript & React'},
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Certified', description: 'Attained certificate from MYEDU education club in Manual QA' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Real project', description: 'Tested a fully-fledged food delivery service consisting of a website and mobile app' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Real project', description: 'Tested a fully-fledged food delivery service consisting of a web and mobile app' }
 ];
 
 export const toolsData = [
