@@ -14,11 +14,10 @@ const Hero = () => {
             <Image src={assets.hero} alt='' className='rounded-full w-64'/>
         </div>
         <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo'>
-                Hi! I'm Vladimir a Manual QA tester <Image src={assets.hand_icon} alt=''
+                Hi! I'm Vladimir, a Manual QA tester <Image src={assets.hand_icon} alt=''
                className='w-6'/></h3>
              <p className='max-w-2xl mx-auto font-Ovo'>
-             I specialize in analyzing business requirements and performing comprehensive manual testing, including functional and integration testing, to ensure the system works seamlessly across all layers 
-             <span className='block'>(API, database, and frontend).</span>  
+             I specialize in analyzing business requirements, creating test documentation, performing comprehensive manual testing, including functional, non-functional, and integration testing, to ensure the system operates seamlessly across all layers (API, database, and frontend).
              </p>
             
             
