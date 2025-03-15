@@ -20,8 +20,8 @@ const Hero = () => {
         documentation, performing comprehensive manual testing, including
         functional, non-functional, and integration testing, to ensure the
         system operates seamlessly across all layers (API, database, and
-        frontend). I have hands-on experience in both automated and manual
-        testing of APIs functionality using Postman. I am proficient in SQL and
+        &nbsp;frontend). I have hands-on experience in both automated and manual
+        testing of API functionality using Postman. I am proficient in SQL and
         use it to validate and verify data integrity, ensuring the accuracy of
         databases through comprehensive testing.
       </p>
